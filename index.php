@@ -1,2 +1,2 @@
 echo "Hallo!";
-echo 133*22;
+echo 133*11;
