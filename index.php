@@ -1,2 +1,7 @@
-echo "Hallo!";
-echo 133*11;
+<?php
+    
+include 'classes/TestClass.php';
+
+$myData = new TestClass('test');
+
+$myData->attachString(' Klasse');
